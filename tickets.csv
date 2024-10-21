@@ -1,0 +1,5 @@
+TicketId,TicketType,BaggageAllowance,DepartDate,ArrivalDate,CurrentLocation,DestinationLocation
+77377601,business,30kg,01/01/2023,01/01/2023,lebanon,lebanon,
+96786642,economy,25kg,02/02/2023,02/02/2023,jordan,qatar,
+32628378,firstclass,30kg,03/03/2023,15/03/2023,jordan,jordan,
+81943265,firstclass,30kg,01/01/2023,01/01/2023,lebanon,jordan,
